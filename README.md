@@ -2,7 +2,7 @@
 
 Using this program you can generate **paraphrases** of any given question.
 
-A detailed Medium blogpost explaining necessary steps can be [found here.](https://medium.com/@ramsrigouthamg/paraphrase-any-question-with-t5-text-to-text-transfer-transformer-pretrained-model-and-training-cbb9e35f1555)
+A detailed Medium blogpost explaining necessary steps can be [found here.](https://medium.com/@ramsrigouthamg/paraphrase-any-question-with-t5-text-to-text-transfer-transformer-pretrained-model-and-cbb9e35f1555)
 
 ## Input
 
