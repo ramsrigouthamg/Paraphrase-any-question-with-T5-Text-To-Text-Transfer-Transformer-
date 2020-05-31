@@ -38,5 +38,5 @@ The training and validation datasets are present in the **paraphrase_data** fold
 Install the necessary libraries from **requirements.txt**.
 Use any **GPU** machine and run **train.py**
 
-Training this model for 2 epochs(default) took about 16 hrs on **p2.xlarge** (AWS ec2)
+Training this model for 2 epochs (default) took about 20 hrs on **p2.xlarge** (AWS ec2)
 
