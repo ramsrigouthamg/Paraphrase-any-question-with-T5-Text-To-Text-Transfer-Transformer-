@@ -31,7 +31,7 @@ The output will be **paraphrased** versions of the same question. Paraphrasing a
 
 ## Inference code
 The **t5-pretrained-question-paraphraser.ipynb** notebook has all the code to run the model on any given question of your choice and generate paraphrases for it.
-The trained model is downloaded from **S3** and used for inference in this file. 
+ 
 
 ## Training the model
 The training and validation datasets are present in the **paraphrase_data** folder.
